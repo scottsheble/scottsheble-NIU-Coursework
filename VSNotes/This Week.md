@@ -1,11 +1,16 @@
-# This Week
-Scott Sheble | Z1963374
+# This Week      ⭕ ✅ 
+Scott Sheble | Z1963374                                             September 19, 2023 03:06:54 AM                
 
 
 ### This Week
 __________________________________________________________________________________________________
-⭕Independent Study: Check Notes
-⭕Respond to Daniel Pre-Major Meeting
+⭕ Fall 2023, CSCI 340-1	HTML Encoding	No	(Due: Wed, Sep 20, 2023, 23:59 CDT)
+⭕ Fall 2023, CSCI 340-1	Master Mind	No	(Due: Wed, Sep 20, 2023, 23:59 CDT)
+⭕ Fall 2023, CSCI 240-1	Is Multiple	No	(Due: Fri, Sep 22, 2023, 23:59 CDT)	
+⭕ Fall 2023, CSCI 240-1	Decision Statements	No	(Due: Fri, Sep 22, 2023, 23:59 CDT)
+⭕ Fall 2023, CSCI 240-1	Compound Interest	No	(Due: Fri, Sep 22, 2023, 23:59 CDT)
+⭕ Independent Study: Check Notes
+⭕ Respond to Daniel Pre-Major Meeting
 ⭕ Quiz 2 - Week 3 (Friday, September 15)
 ⭕ Quiz 02 - File System & Editor Due date: 9/20/23, 3:30 PM
 ✅ Assignment 2 Due date: 9/20/23, 3:30 PM
