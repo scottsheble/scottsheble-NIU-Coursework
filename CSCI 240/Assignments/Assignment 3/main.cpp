@@ -21,7 +21,7 @@ using namespace std;
 const double TAX_BRACKET1 = (0.1);
 const double TAX_BRACKET2 = (0.12);
 const double TAX_BRACKET3 = (0.22);
-const double TAX_BRACKET4 = (0.24);
+const double TAX_BRACKET4 = (0.24); ..
 
 const double BRACKET_LIMIT1 = (11000);
 const double BRACKET_LIMIT2 = (44725);
