@@ -9,7 +9,6 @@
  * Misconduct and will be punished as such.                                                   *
  *                                                                                            *
  **********************************************************************************************/
-
 #ifndef NIUCSCI340_LIST_H
 #define NIUCSCI340_LIST_H
 
