@@ -4,9 +4,7 @@ Scott Sheble | Z1963374                                             September 19
 
 ### This Week
 __________________________________________________________________________________________________
-⭕ Fall 2023, CSCI 340-1	HTML Encoding	No	(Due: Wed, Sep 20, 2023, 23:59 CDT)
 
-⭕ Fall 2023, CSCI 340-1	Master Mind	No	(Due: Wed, Sep 20, 2023, 23:59 CDT)
 
 ⭕ Fall 2023, CSCI 240-1	Is Multiple	No	(Due: Fri, Sep 22, 2023, 23:59 CDT)	
 
@@ -20,11 +18,7 @@ ________________________________________________________________________________
 
 ⭕ Quiz 2 - Week 3 (Friday, September 15)
 
-⭕ Quiz 02 - File System & Editor Due date: 9/20/23, 3:30 PM
-
-✅ Assignment 2 Due date: 9/20/23, 3:30 PM
-
-⭕ NIU CSCI 340 Assignment 2a - Friday, September 16
+⭕ NIU CSCI 340 Assignment 2b - Friday, September 22
 
 ⭕ 340 HTML Encloding - (Due: Wed, Sep 20, 2023, 11:59 CDT)
 
