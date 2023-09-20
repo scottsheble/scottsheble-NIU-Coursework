@@ -27,7 +27,6 @@
  * @tparam ITERATOR 
  * @param begin 
  * @param end 
- * 
  * @return int 
  */
 template <typename ITERATOR>

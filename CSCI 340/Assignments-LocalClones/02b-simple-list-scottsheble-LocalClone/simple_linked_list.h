@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-#warning The provided version of simple_linked_list.h does not actually implement things. You will likely get compilation errors until you've at least partially implemented them. You can remove this warning once you've read it.
+//#warning The provided version of simple_linked_list.h does not actually implement things. You will likely get compilation errors until you've at least partially implemented them. You can remove this warning once you've read it.
 
 template <typename T>
 template <typename ITERATOR> // constructor copying the contents of another container
