@@ -1,50 +1,50 @@
-#include <ostream>
 #include <iostream>
 #include <string>
-#include <list>
 
 using namespace std;
 
+int mm_score(string, string, int&, int&);
+
 int mm_score(string k, string g, int &b, int &w)
 {
+    b = 0;
+    w = 0;
 
-    
-    if(k.size()==g.size())
+    if (k.size() > 0 && g.size() > 0 && k.size() != g.size())
     {
-        int i=0;
-        int j=0;
-        int gSize = g.size(); 
-        int kSize = k.size(); 
-
-        for(i=0;i<k.size();i++)
-        {
-            for(j=i;j<g.size();j++)
-            {
-                if(k[i]==g[j] && i!=j)
-                {
-                    w++;
-                }
-            }
-            if(k[i]==g[i])
-            {
-                b++;
-            }
-        }
-        std::cout << "Return 1"<<" "<<"b = "<<b<<" " <<"w = "<< w <<std::endl;
-        return 1;
-    }
-    else{
         return 0;
     }
-    
+
+    else 
+    {
+        int value1;
+        int value2;
+
+        for (unsigned int i = 0; i < k.size(); i++)
+        {
+
+        
+            value1 = 0;
+            value2 = 0;
+
+            if (g[i] == k[i])
+            { 
+                b++;
+                value1++; 
+                value2++;
+            }
+
+            for (unsigned int j = 0; j < g.size(); j++)
+            {
+                if (g[i] == k[j] && value1 == 0 && value2 == 0)
+                {
+                    w++;
+                    value1++;
+                    value2++;
+                }
+            }
+        
+        }
+    }
+    return 1;
 }
-///**
-int main()
-{
-    int b=0, w=0;
-    string k="abc";
-    string g="axx";
-    mm_score( k,  g,  b, w);
-    return 0;
-}
-//*/
